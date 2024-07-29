@@ -7,10 +7,9 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x7086918cD79Db480cEEF0eB473C4290936EA40ec
 ```
 
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 
 ## Steps
 
@@ -80,7 +79,15 @@ npm run list-issuers
 npm run upgrade
 ```
 
-### 10. Finsihed
+### 10. Uploud ke github
+
+```bash
+git init
+git add .
+git remote set-url origin https://github.com/rabbinik/Deploy-Proxy.git
+git push -u origin main
+```
+### 11. Finsihed
 
 - Open the deployed-adddress.ts file (location in utils folder)
 - Select SWTRProxy
@@ -92,19 +99,4 @@ npm run upgrade
 - No need push to github
 
 by :
-
-github : [Mnuralim](https://github.com/Mnuralim)
-
-twitter : @Izzycracker04
-
-telegram : @fitriay19
-
-youtube : https://www.youtube.com/@IzzyTSN
-
-Ignore this!!!
-
-```
-SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
-ProxyAdmin = '0x6a0baE5CF96d14e39FA9F5AdB4fadABb55B22E17'
-SWTRImplementation = '0xE4e93a474734E22A4f660EF1fE7aC3fc096E856c'
-```
+github : [rabbinik](https://github.com/rabbinik)
