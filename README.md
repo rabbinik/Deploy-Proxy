@@ -16,7 +16,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone https://github.com/rabbinik/Deploy-Proxy.git
 ```
 
 ```bash
